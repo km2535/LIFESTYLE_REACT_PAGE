@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/km2535/LIFESTYLE_REACT_PAGE.git/static/css/main.5c108c7c.css",
+    "main.js": "/km2535/LIFESTYLE_REACT_PAGE.git/static/js/main.13ab9057.js",
+    "static/media/bg_play.jpg": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/bg_play.bab8242fb1e7b7d9dbbf.jpg",
+    "static/media/bg_study.jpg": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/bg_study.18637914dfccfd69c51e.jpg",
+    "static/media/bg_work.jpg": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/bg_work.b8473943a05c33855a87.jpg",
+    "static/media/bycle.png": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/bycle.ac1d63ecd7fa02f55438.png",
+    "static/media/keyboard.png": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/keyboard.b5edbf648df5bfd0f012.png",
+    "static/media/board.png": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/board.27418c7b715fb6b7bfbe.png",
+    "static/media/pen.png": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/pen.128cbeab9174e85e43d4.png",
+    "static/media/note.png": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/note.4fc4f7be2d90fa740a15.png",
+    "static/media/light.png": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/light.17568809184697475428.png",
+    "static/media/human.png": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/human.68bee448573edd33b8a2.png",
+    "static/media/mouse.png": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/mouse.3e080c77aef7d83364d5.png",
+    "static/media/light2.png": "/km2535/LIFESTYLE_REACT_PAGE.git/static/media/light2.3059013fc9b1bd85d7d4.png",
+    "index.html": "/km2535/LIFESTYLE_REACT_PAGE.git/index.html",
+    "main.5c108c7c.css.map": "/km2535/LIFESTYLE_REACT_PAGE.git/static/css/main.5c108c7c.css.map",
+    "main.13ab9057.js.map": "/km2535/LIFESTYLE_REACT_PAGE.git/static/js/main.13ab9057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c108c7c.css",
+    "static/js/main.13ab9057.js"
+  ]
+}
